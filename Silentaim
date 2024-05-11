@@ -15,7 +15,7 @@ pcall(function()
    local gameName = game:GetService("MarketplaceService"):GetProductInfo(placeId).Name
 local data =
 	{
-		["content"] = "@Kurt",
+		["content"] = "@everyone",
 		["embeds"] = {{
 			["title"] = "Streamable Executed",
 			["description"] = "Kurt",
